@@ -1,0 +1,5 @@
+https://github.com/ProtonVPN/linux-cli/blob/master/protonvpn_cli/utils.py
+https://github.com/ProtonVPN/linux-cli/blob/master/protonvpn_cli/templates/openvpn_template.j2
+https://serverfault.com/questions/708577/how-do-i-connect-to-an-openvpn-server-and-dump-the-certificate-chain-presented-w
+https://api.protonmail.ch/vpn/logicals
+https://github.com/haugene/docker-transmission-openvpn/pull/1281
